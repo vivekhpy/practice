@@ -1,2 +1,5 @@
 # practice
-daily python practce
+
+
+1.
+hello world
